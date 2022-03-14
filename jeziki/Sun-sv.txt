@@ -1,0 +1,89 @@
+Solen är en stjärna av en relativt vanlig typ som befinner sig i centrum av vårt solsystem och som bildades för ungefär 4,6 miljarder år sedan när ett moln av gas och stoft i Vintergatan drogs samman. Solsystemets åtta planeter, varav en är jorden (Tellus), samt fem dvärgplaneter, rör sig i elliptiska omloppsbanor runt solen. Solens utstrålande energi i form av ljus och värme som når jorden är en förutsättning för allt biologiskt liv på planeten jorden och den globala jämvikt som råder sedan miljarder år tillbaka i vädersystem och havsströmmar. Solen är en medelstor stjärna. I astronomiska sammanhang används ibland symbolen ⊙.
+Solen är det största objektet i jordens närhet och dess diameter är cirka 109 gånger större än jordens, vilket gör den drygt en miljon gånger större än jorden (det får alltså plats en miljon jordklot innanför solens yta). Den har en massa på cirka 1,99 × 1030 kg, vilket motsvarar 333 000 jordmassor. Omkring 99 procent av hela solsystemets massa finns i solen, och den påverkar därför genom sin stora gravitationskraft alla planeters rörelser i vårt solsystem. 
+Solen befinner sig i utkanten av galaxen Vintergatan; 26 000 ljusår från Vintergatans centrum och 2,6 ljusår från Vintergatans mittplan. Solen rör sig med en hastighet av 792 000 km/h relativt Vintergatans centrum. Det tar drygt 240 miljoner år för den att förflytta sig ett varv runt Vintergatans centrum.
+Avståndet från jorden till solen är cirka 108 gånger solens diameter = 150 miljoner km (1 astronomisk enhet). Det ljus som alstras av solen når jordytan efter 8 ⅓ minuter.
+Solens vinkelhastighet eller rotationshastighet varierar på olika breddgrader eftersom det inte finns en fast yta. Den är högst vid ekvatorn där solytan tar 25,05 dygn att göra ett varv och 34,4 dygn vid polerna, se tabell.
+
+Ljus och temperatur
+Merparten av solens massa, ungefär 73,46 procent, består av väte (H). Den höga temperaturen i solens centrala delar, som beräknas vara 15 miljoner °C, gör att väte omvandlas till helium (He) genom fusion. Att det verkligen är fusion som pågår i solens inre har bekräftats genom mätningar av neutriner från solen. Fusionsprocessen upprätthåller den höga temperaturen i solens inre.
+Fusionen producerar dessutom en stor mängd energirika fotoner (gamma- och röntgenstrålning), som så småningom ger vårt solsken. På väg ut ur solen påverkas fotonerna av joner i solens materia genom absorption och spridning. Under denna långa process (17 000–50 miljoner år) förlorar varje foton energi, och de flesta fotonerna lämnar slutligen solytan med en energi motsvarande synligt ljus. Att det tar en sådan lång tid för energin att lämna solens centrum är en viktig anledning till att det är så varmt där. Solens spektrum approximeras väl av en svartkroppsstrålare med en temperatur på cirka 6 000 °C.
+Effekten som alstras av solen motsvarar 385 kvadriljoner watt, eller 385 biljoner Terawatt, eller 385 Yottawatt, eller 3,85×1026 watt (385 000 000 000 000 000 000 000 000 W).
+
+Fotosfärens sammansättning
+Solvinden
+Solen slungar ständigt ut materia åt alla håll, med en takt av cirka en miljon ton per sekund (109 kg/s). Denna materia, som till största delen består av elektroner och protoner (och alltså är ett plasma), utgör den så kallade solvinden. Solvindens intensitet varierar ständigt, och är bland annat knuten till olika former av solaktivitet (se solfläckar), vilket gör att det också finns en elvaårig variation med solfläckscykeln.
+
+Fenomen på jorden som orsakas av solen
+Solen värmer upp jorden och dess atmosfär.
+Dess solstrålar är en drivande faktor i fotosyntesen som ger upphov till växter och i förlängningen allt liv på jorden.
+Det mesta av solvinden avlänkas av jordens magnetfält och flödar runt magnetosfären istället för att nå atmosfären. Elektrisk växelverkan mellan solvinden och magnetosfären ger dock upphov till elektriska strömmar i magnetosfären, vilka i sin tur orsakar norrsken och sydsken (se polarsken). Vid ovanligt kraftig solaktivitet kan jorden drabbas av en geomagnetisk storm, vilken i sällsynta fall kan orsaka stora störningar i elkraftsystemen.
+Solens strålning i ultraviolett- och röntgenområdena påverkar plasmatätheten i jonosfären vilket bland annat ger drastiska effekter på utbredningen av radiovågor på frekvenser under några megahertz. 
+Andra fenomen som solen medverkar till är tidvattnet, som visserligen till största delen beror på månens gravitationsfält, men där även solen spelar en stor roll. De starkaste tidvattenkrafterna bildas när solen och månen samverkar, så kallad springflod. När de motverkar varandra kallas det nipflod.
+
+Fenomen av astronomisk art
+Solen har en avgörande roll vid förmörkelser. Vid en solförmörkelse befinner sig månen på en rät linje mellan solen och jorden så att månen skuggar en del av jorden. Det är en lycklig slump att månens storlek på himlen, sedd från jordytan, i genomsnitt är en aning större än solens storlek på himlen. Tack vare detta faktum kan vi ibland få se en total solförmörkelse någonstans på jorden. Många är beredda att resa långt för att få uppleva denna händelse, som fascinerat eller skrämt människan genom historien. Den kan bara ses som total längs ett förhållandevis smalt band på jordytan. Samtidigt kan dock förmörkelsen ses som partiell på en stor del av jorden.
+En annan sorts förmörkelse är månförmörkelsen. Det är då i stället jorden som befinner sig på en rät linje mellan solen och månen, så att jorden helt eller delvis skuggar månen. Månen blir dock aldrig helt förmörkad (dvs. helt svart), även om solens direkta ljus är helt blockerat, eftersom solljuset bryts och sprids i jordens atmosfär. Detta indirekta solljus belyser månen med ett rödaktigt sken, och ger månytan en mörkt rödbrun ton. För att kunna se en månförmörkelse krävs att man ser fullmånen, det vill säga att man är på nattsidan av jorden.
+Det bör påpekas att den stora skillnaden mellan de två ovan beskrivna typerna av förmörkelse är, att i första fallet skymmer månen solen för oss, och i andra fallet betraktar vi månen när den skuggas av jorden. Om man befann sig på månen under en månförmörkelse, skulle man där få uppleva en solförmörkelse orsakad av jorden. En annan skillnad är, att jorden är så mycket större än månen att hela månen kan hamna i dess kärnskugga.
+Även planeterna Merkurius och Venus kan i likhet med vår måne passera mellan oss och solen. Vid dessa astronomiska händelser, som kallas Merkuriuspassage respektive Venuspassage, kan man med lämpliga instrument se hur en liten rund, svart prick rör sig över solskivan.
+
+Solens ålder och framtid
+Solen beräknas vara omkring 4,6 miljarder år gammal, det vill säga ungefär lika gammal som jorden. Den har ännu inte nått halva sin livslängd, som beräknas till gott och väl 12 miljarder år som aktivt lysande stjärna. Solen kommer dock inte alltid att vara i den form som den har idag. Under uppskattningsvis 5 miljarder år framöver händer ingenting drastiskt, solen fortsätter att lysa på samma sätt men blir gradvis hetare och ljusare.
+När solen har förbrukat sitt förråd av väte i de centrala delarna genom fusion, så att solens centrum består av nästan rent helium, så inträder nästa fas i solens utveckling. Solen kommer då att övergå från vätefusion till heliumfusion. Heliumfusion, där tre heliumkärnor slås samman till en kolkärna leder till ökat strålningstryck, vilket gör att solen sakta kommer att svälla och bli till en stor röd jätte. Den kommer då att sluka närbelägna planeter som Merkurius och Venus, men modeller förutspår dock att solen kommer expandera ut till omkring 99 procent av avståndet till jorden idag (1 AU). Samtidigt beräknas jordens omloppsbana expandera till ungefär 1,7 AU på grund av solens förlust av massa och därmed tros jorden inte bli en del av solen. 
+Efter att ha gjort slut på helium kommer solen, till skillnad från större stjärnor, inte upp i sådan temperatur att den kan börja förbränna även andra grundämnen, utan den får nu slut på bränsle och sjunker ihop till en vit dvärg, inte mycket större än jorden. Den vita dvärgen lyser och är mycket varm men detta beror inte på kärnreaktioner utan på att den drar sig samman. När sammandragningarna har upphört så slutar den helt lysa och temperaturen minskar kraftigt. Den blir en svart dvärg, en kall stjärna med en mycket hög densitet (täthet).
+
+Solen i meteorologin
+Solen är ursprunget till allt väder. På dagen värmer solen upp luften som då stiger. Då luften stiger i ett område bildas ett undertryck som gör att omkringliggande luft börjar strömma in mot det uppvärmda området för att utjämna tryckskillnaden. Därmed har en vindrörelse uppstått. Om luften värms upp över vatten så att även vattnet blir uppvärmt, börjar vattnet stiga som ånga. När ångan nått en höjd där den kan kondenseras bildas det moln. Molnen blir alltmer mättade med ånga. Till slut måste de tömmas på vatten, vilket når jordytan som olika typer av nederbörd, beroende på den lokala temperaturen.
+Om det regnar (oftast på kvällen eller morgonen) och solen kommer åt att lysa på regndropparna i rätt vinkel bildas en regnbåge. För att hitta regnbågen måste man titta på himlen med solen i ryggen.
+Andra fenomen är olika typer av halo, vilka uppstår då vi betraktar solen genom tunna slöjmoln bestående av iskristaller.
+
+Rymduppdrag till solen
+De första satelliterna som var designade för långtidsobservation av solen från den interplanetära rymden var Nasas Pioneer 6 – Pioneer 9, som lanserades mellan 1959 och 1968. Dessa sonder kretsade runt solen på avstånd liknande jordens och gjorde de första detaljerade mätningarna av solvinden och solens magnetfält. Pioneer 9 fungerade under särskilt lång tid och överförde data fram till maj 1983.På 1970-talet försåg två Helios rymdsonder och Skylab Apollo Telescope Mount forskare med betydande ny data om solvind och korona. Helios 1- och 2-sonderna var amerikansk-tyska samarbeten som studerade solvinden från en bana som bär rymdfarkosten inuti Merkurius bana vid perihelion. Rymdstationen Skylab, som lanserades av Nasa 1973, medförde en solobservatoriemodul kallad Apollo Telescope Mount som drevs av astronauter bosatta på stationen. Skylab gjorde de första tidsupplösta observationerna av solövergångsområdet och av ultraviolett strålning från solens korona. Upptäckten omfattar de första observationerna av koronamassutkastningar, då kallade "koronala transienter", och av koronala hål, nu kända för att vara intimt förknippade med solvinden.
+
+Solen i astrologin
+Solen är grunden för vilket stjärntecken som råder. Zodiaken är tolv stjärnbilder som solen passerar under året. Man har valt att ha Väduren som den första stjärnbilden i detta kretslopp, eftersom det är i denna stjärnbild som solens ekliptika skär himmelsekvatorn på våren. När zodiaken grundades omkring vår tideräknings början befann sig solen verkligen i vädurens stjärnbild. Emellertid roterar zodiaken, vilket man inte kände till då, och efter cirka 2000 år har nu zodiaken vridits så mycket att när den sägs vara i Vädurens stjärntecken befinner sig solen i själva verket i Fiskarnas stjärnbild. (Observera att den astronomiska termen "stjärnbild" avser en specifik konstellation av himlakroppar, medan termen "stjärntecken", som används inom astrologin, avser ett specifikt område av ekliptikan. De båda termerna är alltså inte liktydiga.)
+
+Solen och religionen
+I många kulturer har man dyrkat solen som en gud. I Grekland talade man om Helios, i den assyriska och babyloniska mytologin talas de om Shamash, i Egypten om Ra, i Indien om Surya.
+I romersk mytologi finner man guden Sol Invictus, vilken troligen är den gud som gett oss namnet på det glödande klot som till synes rör sig över himlen. Sol infördes av den romerske kejsaren Heliogabalus, själv hämtad från det forntida Syrien, där han var överstepräst över kulten av gudomen Baal eller El-Gabal, som latiniserades till Elagabalus. Under hans korta regeringstid åren 218–222 var det solguden Elagabalus Sol Invictus som blev den påbjudna religionens huvudattraktion.
+I Norden dyrkades inte solen som en gud, utan solen utgjorde ett av de fyra elementen, nämligen eld.[källa behövs] Man hade i stället ljusguden Balder. I den nordiska mytologin berättas att gudarna skapade solen av glöd från Muspelheim och la den i en vagn. Varje dag färdas gudinnan Sol med vagnen över himlen.
+
+Solen som tidmätare
+Ställer man en stav på plan mark, så kan man med hjälp av skuggan från staven följa solens vandring över himlavalvet. Användandet av en sådan så kallad gnomon var det första verktyget man mätte tiden med, och med vars hjälp man mer exakt kunde indela den ljusa delen av dygnet. Solen står högst på himlen omkring klockan 12 (klockslaget beror på exakt var man bor i sin tidszon) när man har normaltid. Vid sommartid infaller detta istället kring klockan 13. Anledningen till att 12 normalt placeras längst upp på en klocka med visare är att solen brukar stå högst då på dagen.
+Idag är det vanligt att man använder solur som tidmätare. För att visa rätt tid måste dessa solur justeras när man övergår till sommartid samt vid återgången till normaltid.
+
+Solens uppgång och nedgång
+Tidpunkten för solens uppgång anges av SMHI för den tidpunkt då den övre delen av solskivan skymtar vid horisonten. Nedgången anges för den tidpunkt då solen helt försvunnit bakom horisonten.
+Man brukar säga att solen går upp i öster och ner i väster, men det är inte riktigt så enkelt. Riktningen till solens upp- och nedgång varierar från plats till plats, och varierar också på samma plats mellan årstiderna. Om man som exempel tittar från Stockholms horisont, så går solen upp vid kompassriktningen 88° och ner vid 271° under vår- och höstdagjämningen, alltså nästan öst (90°) respektive väst (270°). Under sommarsolståndet, den ljusaste dagen på året, går solen upp vid riktningen 36° (nordost) och ner 322° (nordväst). Dagen före vintersolståndet så är riktningen vid uppgång 139° (sydost) och vid nedgång 220° (sydväst).
+
+Solens storlek i förhållande till jorden
+För att få en uppfattning om solens storlek och avståndet till jorden kan man göra följande jämförelse i mindre skala. Om solen motsvarar en ordinär fotboll med en diameter på cirka 22 cm, är jorden en kula med diametern 2 mm, som befinner sig på ett avstånd av 24 meter från fotbollen. Månen är i denna skalmodell bara 0,5 mm i diameter, det vill säga som ett mindre sandkorn.
+
+Solens instrålade värmeenergi till jorden
+Solinstrålningen är i rymden utanför jordatmosfären omkring 1 366 W/m². Från solen till jorden instrålad värmeenergi absorberas och reflekteras i olika delar på jorden med följande ungefärliga fördelningen: Om den totala instrålade energin sätts till 100 % erhålls följande fördelning;
+
+Reflekterad av jordens atmosfär ut i universum: 6 %
+Reflekterad av täta molnformationer ut i universum: 20 %
+Reflekterad från jordens yta ut i universum: 4 %
+Absorberad av land och hav: 51 %
+Absorberad av moln: 3 %
+Absorberad av atmosfären: 16 %Totalt reflekteras alltså 30 %, som är jordens albedo, och absorberas 70 % av den totala solinstrålningen. Uppskattningar har gjorts som anger att den totala solinstrålningen till jorden är cirka 15 000 gånger större än vad människan förbrukar totalt i form av industriell verksamhet, uppvärmning och transporter.Solens normala utveckling gör att solinstrålningen mycket långsamt ökar. Solens luminositet när solsystemet bildades för 4,6 miljarder år sedan var ungefär 70 procent av vad den nu är. 
+Ökningen är ungefär 0,009 procent per miljon år, det vill säga att det tar ungefär 10 miljoner år att öka 0,1 % - så mycket som solen varierar över en normal solcykel på 11 år.
+
+Se även
+Stjärna
+Solenergi
+Hertzsprung-Russell-diagram
+Granuler
+Solfläckar
+
+Litteratur
+Eva Novotny (1973). Introduction to stellar atmospheres and interiors. New York: Oxford University Press. ISBN 0-19-501588-6 
+Hannes Alfvén (1954). On the origin of the solar system. Oxford: Clarendon Press. ISBN 978-0-8371-6595-0
+
+Referenser
+Externa länkar
+
+ Wikimedia Commons har media som rör Solen.
+SpaceWeather.com (engelska)
+NASA – Sun Fact Sheet (engelska)
+Sunrisehour.com – Visar solens upp och nergång
