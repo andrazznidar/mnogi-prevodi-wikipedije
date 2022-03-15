@@ -151,21 +151,7 @@ W Średniowieczu astronomia rozwijała się w krajach muzułmańskich. Al Battan
 W 1032 r. perski uczony Awicenna (Ibn Sina) po raz pierwszy obserwował tranzyt Wenus i wysnuł poprawny wniosek, że Wenus znajduje się bliżej Słońca niż Ziemia. W 1672 Giovanni Cassini i Jean Richer wyznaczyli paralaksę Marsa i tym samym byli w stanie obliczyć odległość do Słońca.
 Isaac Newton rozszczepił światło słoneczne przy użyciu pryzmatu i pokazał, że składa się ono z wielu barw, a w 1800 roku William Herschel odkrył podczerwień – promieniowanie poza czerwoną częścią widma światła słonecznego. W XIX wieku nastąpił duży postęp w badaniach spektroskopowych Słońca; Joseph von Fraunhofer zarejestrował ponad 600 linii absorpcyjnych w widmie słonecznym; najsilniejsze są nadal nazywane liniami Fraunhofera. We wczesnych latach nowożytnej nauki źródło energii Słońca stanowiło dużą zagadkę. Lord Kelvin zasugerował, że Słońce jest stopniowo ochładzającym się ciałem płynnym, które wypromieniowuje wewnętrzne ciepło. Kelvin i Hermann von Helmholtz zaproponowali mechanizm kontrakcji grawitacyjnej jako źródło energii cieplnej, ale dawał on oszacowanie wieku Słońca równe zaledwie 20 mln lat, co odbiegało od wyznaczonej długości istnienia Ziemi, równej, według znanych wówczas odkryć geologicznych, co najmniej 300 mln lat (w XIX wieku, przed odkryciem datowania izotopowego, nie było powodu, aby sugerować, że Ziemia istnieje aż 4,5 mld lat, por. aktualizm). W 1890 Norman Lockyer, który odkrył hel w widmie słonecznym równocześnie z Julesem Jansenem w 1868, zaproponował hipotezę meteorytową powstawania i ewolucji Słońca.
 Do 1904 brakowało rozsądnego rozwiązania tego problemu. Ernest Rutherford zasugerował, że moc promieniowania Słońca może być podtrzymywana przez wewnętrzne źródła ciepła i zasugerował rozpad promieniotwórczy jako źródło. Istotną wskazówkę co do źródła energii słonecznej przyniosły prace Alberta Einsteina, który wskazał równoważność masy i energii w relacji 
-  
-    
-      
-        E
-        =
-        m
-        
-          c
-          
-            2
-          
-        
-      
-    
-    {\displaystyle E=mc^{2}}
+
   . W 1920 roku Sir Arthur Eddington zaproponował, że ciśnienie i temperatura w centrum Słońca może powodować reakcje syntezy jądrowej, łączące protony w jądra helu, w wyniku czego wyzwalana jest energia związana z deficytem masy jądra helu. Przewaga wodoru w Słońcu została potwierdzona w 1925 roku przez Cecilię Payne na podstawie teorii jonizacji, którą opracował indyjski fizyk Meghnad Saha. Teoretyczną koncepcję syntezy jądrowej opracowali w 1930 roku astrofizycy Subrahmanyan Chandrasekhar i Hans Bethe. Bethe opracował szczegóły dwóch głównych reakcji generujących energię we wnętrzu Słońca. Wreszcie w 1957 r. ukazała się praca zbiorowa zatytułowana „Synteza pierwiastków w gwiazdach” (autorami byli: Margaret Burbidge, Geoffrey Burbidge, William Fowler i Fred Hoyle). Wykazywała ona przekonująco, że większość pierwiastków we Wszechświecie powstała w procesach syntezy jądrowej w gwiazdach, także takich jak Słońce.
 
 Misje kosmiczne
@@ -207,13 +193,3 @@ M.J. Thompson. Solar interior: Helioseismology and the Sun’s interior. „Astr
 
 Linki zewnętrzne
 Przewodnik po Słońcu, Instytut Astronomiczny Uniwersytetu Wrocławskiego (pol.)
-Solar and Heliospheric Observatory Homepage – strona misji sondy kosmicznej SOHO (ang.)
-National Solar Observatory (ang.). [dostęp 2014-07-25]. [zarchiwizowane z tego adresu (2018-02-24)].
-Astronomy Cast: The Sun, Spots and All (podcast) (ang.)
-Life History of the Sun (ang.). [dostęp 2014-08-27]. [zarchiwizowane z tego adresu (2015-01-04)].
-The Sun – Photos – The Big Picture, The Boston Globe – zbiór spektakularnych zdjęć Słońca z różnych instytucji (ang.)
-ACRIM – obserwacje satelitarne jasności Słońca (ang.)
-Sun|trek – strona edukacyjna poświęcona Słońcu (ang.)
-Alien Worlds – The Structure of the Sun, University of Glamorgan – animowane objaśnienie budowy Słońca (ang.)
-The Future of the Sun – animacja szczegółowo ukazująca przyszłą ewolucję Słońca (ang.)
-The Sun: Life and Times on the Main Sequence (ang.)

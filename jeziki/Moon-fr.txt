@@ -140,22 +140,7 @@ La partie éclairée de la Lune étant symétrique par rapport au plan formé pa
 Super lune
 Une super lune est une pleine lune qui coïncide avec une distance minimale du satellite à la Terre,. Il ne s'agit pas d'un terme d'astronomie mais plutôt d'une expression usuelle employée pour désigner certains phénomènes astronomiques.
 Le 14 novembre 2016, la Lune est au plus proche en pleine lune depuis 1948 à 356 500 km du centre de la Terre. Cette pleine lune est alors 30 % plus lumineuse que lorsqu'elle est à son apogée, car son diamètre angulaire est 14 % plus grand et 
-  
-    
-      
-        
-          
-            1.14
-            
-              2
-            
-          
-          ≈
-          1.30
-        
-      
-    
-    {\displaystyle \scriptstyle 1.14^{2}\approx 1.30}
+
   ,. Elle ne sera pas plus proche avant le 25 novembre 2034,.
 
 Éclipses
@@ -318,11 +303,6 @@ Tom Kerss, Guide pratique de la Lune : découvrir, observer, photographier, Dela
 
 Articles connexes
 Liens externes
-(en) Photos de la Lune, sur le site de la NASA.
-(en) Photos satellites de la Lune, sur le site de Google.
-(en) Cartes de la Lune, sur le site du Lunar and Planetary Institute.
-(en) Cartes de la Lune, Geological Lunar Researches Group.
-(en) Photo en haute définition de la Lune par la sonde LRO en 2009 (1 pixel = 150 m)
 
 Ressource relative à la santé : (en) Medical Subject Headings 
 Ressource relative à la bande dessinée : (en) Comic Vine 
